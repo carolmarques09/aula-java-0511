@@ -7,7 +7,6 @@ public class Main {
         Professor p = new Professor();
         Pessoa c = new Coordenador();
         TransformacaoPolimorfica t = new TransformacaoPolimorfica();
-        FolhaPagamento f = new FolhaPagamento();
 
         p.responsabilidade();
         p.calcSalario();
